@@ -7,6 +7,9 @@
 */
 
 //CODE HERE
+let lovesCode = true
+
+
 
 // For problems 2-3 use the following lines of code:
 var amysAge = 29;
